@@ -41,7 +41,6 @@ li {
   color: #fff;
   text-decoration: none;
   display: block;
-  padding: 15px;
 }
 .top_menu li a:hover {
   text-decoration: underline;
@@ -49,6 +48,7 @@ li {
 .top_menu li {
   float: left;
   width: auto;
+  padding: 15px;
 }
 ul .top_menu {
   float: right;
